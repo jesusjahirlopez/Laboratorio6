@@ -1,4 +1,4 @@
-h1{
+h2{
 	font-family: "Passion One", serif;
 }
 .color{
@@ -10,4 +10,8 @@ h1{
 .dim{
 	width: 625px;
 	height: 1000px;
+}
+a{
+	font-family: "Passion One", serif;
+	font-size: 35px;
 }
