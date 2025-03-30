@@ -8,8 +8,20 @@ h2{
 	text-align: justify;
 }
 .dim{
-	width: 625px;
-	height: 1000px;
+	width: 535px;
+	height: 1155px;
+}
+.dim2{
+	width: 535px;
+	height: 380px;
+}
+.dim3{
+	width: 535px;
+	height: 472px;
+}
+.dim4{
+	width: 535px;
+	height: 472px;
 }
 a{
 	font-family: "Passion One", serif;
